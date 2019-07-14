@@ -1,0 +1,5 @@
+tasks:
+- command: npm i -g truffle ganache-cli
+ports:
+- port: 8545
+- port: 7545

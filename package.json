@@ -1,0 +1,24 @@
+{
+  "name": "learning-checkpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/critesjosh/learning-checkpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/critesjosh/learning-checkpoints/issues"
+  },
+  "homepage": "https://github.com/critesjosh/learning-checkpoints#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "truffle": "^5.0.27"
+  }
+}
